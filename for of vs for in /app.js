@@ -1,8 +1,29 @@
 const fruits = ['banana', 'apple', 'peach', 'mango', 'grapes']
 
+// for(let i = 0; i < fruits.length; i++) {
+//     console.log(fruits[i]);
+// }
+
+// console.log('*************************');
+
+// for(const fruit of fruits) {
+//     console.log(fruit);
+// }
+
+// const user = 'Muhammad Azhan'
 
 
+// for(const letter of user) {
+//     console.log(letter);
+// }
 
+const person = {
+    firstName: 'John',
+    lastName: 'Doe',
+    age: 50,
+    eyeColor: 'blue',
+    city: 'karachi',
+}
 
 // for(const key in person) {
 //     console.log(key, ': ' ,person[key]);

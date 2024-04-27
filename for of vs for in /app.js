@@ -2,11 +2,6 @@ const fruits = ['banana', 'apple', 'peach', 'mango', 'grapes']
 
 
 
-
-// for(const letter of user) {
-//     console.log(letter);
-// }
-
 const person = {
     firstName: 'John',
     lastName: 'Doe',

@@ -10,7 +10,7 @@ const fruits = ['banana', 'apple', 'peach', 'mango', 'grapes']
 //     console.log(fruit);
 // }
 
-// const user = 'Muhammad Azhan'
+// const user = 'Azhan'
 
 
 // for(const letter of user) {

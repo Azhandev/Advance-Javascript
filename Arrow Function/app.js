@@ -1,7 +1,7 @@
 // // Function Declaration
 
 // function square(num){
-//     return num * num
+//     return num * nu
 // } 
 
 // // Function Expression

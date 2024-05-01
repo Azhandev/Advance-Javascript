@@ -5,7 +5,7 @@ const user = {
   lastName: 'Azhan',
   pata: {
     city: 'Karachi',
-    pinCode: 813336,
+    pinCode: 813336
     state: 'USA'
     moreDetails: {
       population: 9798897897,

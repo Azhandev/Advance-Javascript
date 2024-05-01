@@ -7,7 +7,7 @@ const user = {
     city: 'Karachi',
     pinCode: 813336
     state: 'USA'
-    moreDetails: {
+    moreDetails: 
       population: 9798897897,
       area: '787 sq km',
     }

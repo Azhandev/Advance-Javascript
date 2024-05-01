@@ -7,7 +7,7 @@
 // // Function Expression
 
 // const square = function(num) {
-//     return num * num
+//     return num * nu
 // }
 
 // // Arrow Function Expression

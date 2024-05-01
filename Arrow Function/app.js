@@ -1,20 +1,20 @@
 // // Function Declaration
 
 // function square(num){
-//     return num * nu
-// }
+//     return num * num
+// } 
 
-// // Function Expressio
+// // Function Expression
 
 // const square = function(num) {
-//     return num * n
+//     return num * num
 // }
 
 // // Arrow Function Expression
 
 // const square = (num) => {
 //     return num * num
-// 
+// }
 
 const square = num => num * num
 const add = (a, b) => a + b

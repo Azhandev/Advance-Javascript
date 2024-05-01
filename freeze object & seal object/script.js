@@ -10,7 +10,7 @@ const user = {
     moreDetails: {
       population: 9798897897,
       area: '787 sq km',
-    },
+    }
   },
   age: 19,
   isGraduate: false,

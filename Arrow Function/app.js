@@ -4,7 +4,7 @@
 //     return num * nu
 // }
 
-// // Function Expression
+// // Function Expressio
 
 // const square = function(num) {
 //     return num * n

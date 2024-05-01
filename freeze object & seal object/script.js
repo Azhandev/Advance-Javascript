@@ -6,7 +6,7 @@ const user = {
   pata: {
     city: 'Karachi',
     pinCode: 813336
-    state: 'USA'
+    state: 'USA
     moreDetails: 
       population: 9798897897,
       area: '787 sq km',

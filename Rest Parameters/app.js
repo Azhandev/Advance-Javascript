@@ -8,7 +8,7 @@ const nums1 = [1, 2, 3, 4]
 //         sum = sum + nums[i]
 //     }
 //     return sum
-// }
+// 
 
 // function add() {
 //   return [...arguments].reduce((acc, curr) => acc + curr)

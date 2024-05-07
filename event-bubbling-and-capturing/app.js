@@ -1,7 +1,7 @@
 const green = document.querySelector('.green')
 const pink = document.querySelector('.pink')
 const blue = document.querySelector('.blue')
-1
+
 
 window.addEventListener('click', (e) => {
     console.log('6. Window Event Listener');

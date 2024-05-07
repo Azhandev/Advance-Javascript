@@ -30,4 +30,4 @@ blue.addEventListener('click', (e) => {
 // blue.addEventListener('click', (e) => {
 //     console.log('1. Blue Event Listener');
 // }, {once: true})
-1
+

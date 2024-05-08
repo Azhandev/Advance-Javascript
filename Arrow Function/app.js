@@ -1,4 +1,4 @@
-1// // Function Declaration
+// // Function Declaration
 
 // function square(num){
 //     return num * num

@@ -1,4 +1,4 @@
-function createUser(firstName, lastName, age) {
+ function createUser(firstName, lastName, age) {
   const user = {
     firstName,
     lastName,

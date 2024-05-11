@@ -1,4 +1,4 @@
-const months = ['January', 'February', 'March', 'April', 'May', 'December']
+ const months = ['January', 'February', 'March', 'April', 'May', 'December']
 
 // const capitalMonths = months.forEach((month, index) => {
 //     console.log(index + 1, month)

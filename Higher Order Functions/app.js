@@ -1,4 +1,4 @@
-//higher order function
+ //higher order function
 function a(b) {
     console.dir(b);
     b()

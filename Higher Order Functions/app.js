@@ -4,7 +4,7 @@ function a(b) {
     b()
 }
 
-1
+
 
 
 //callback function

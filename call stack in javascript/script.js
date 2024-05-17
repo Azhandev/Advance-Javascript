@@ -2,7 +2,7 @@ debugger
 
 // sayHi()
 
-// const username = 'Anurag'
+// const username = 'Azhan'
 // const userAge = 25
 
 // function sayHi() {
@@ -21,7 +21,7 @@ debugger
 // }
 
 function introduceMe() {
-    console.log('Hi, My name is Anurag.');
+    console.log('Hi, My name is Azhan.');
     introduceMe()
 }
 
